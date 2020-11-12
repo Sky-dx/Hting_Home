@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="eb2dc700-1eaf-48ac-855e-f0db8b3315c6" name="Sky-dx">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
