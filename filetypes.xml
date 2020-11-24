@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="tvuhk" type="Groovy" />
       <mapping pattern="helllo" type="JAVA" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="hello.java" type="PLAIN_TEXT" />
     </extensionMap>
